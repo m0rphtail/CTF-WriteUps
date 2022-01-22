@@ -1,5 +1,3 @@
-# Index
-
 ## PicoCTF
 - [cookie](picoCTF/cookie/README.md)
 
